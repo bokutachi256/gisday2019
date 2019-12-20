@@ -1,4 +1,4 @@
-# gisday2019 Eコースリポジトリ
+# GIS Day in 東京 Eコース 「Pythonを用いたDEM処理」 リポジトリ
 
 * Pythonを用いたDEM処理
 * 首都大学東京 都市環境学部 地理環境学科 中山大地
